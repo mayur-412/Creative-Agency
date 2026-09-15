@@ -1,5 +1,6 @@
 .git
-.github
+.gitignore
 .env
-*.zip
 *.sql
+*.sql.zip
+README-RENDER.md
