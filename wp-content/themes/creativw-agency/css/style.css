@@ -4399,9 +4399,6 @@ nav, .search-box, .skills-card, .why-floating-box, .services-box:before{
 .choose-icon{
 	margin: 0 auto;
 }
-.services-section .box-section .box {
-    width: 100%;
-}
 
 }
 /* media-query end */
